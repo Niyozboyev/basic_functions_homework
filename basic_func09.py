@@ -6,4 +6,4 @@
 def main(c):
     a=1
     return c-1
-print(main(10))
+print(main(1))
